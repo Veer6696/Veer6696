@@ -1,5 +1,5 @@
 # Hi, I'm Rohit Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5733&width=600&lines=Full-Stack+Web+Developer;Data+Analysis+Beginner;Co-founder+of+Robotics+Club;Passionate+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5733&width=600&lines=Full-Stack+Web+Developer;Data+Analysis+Beginner;Passionate+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
 <br><br>
 ---
 ## 🌐 Social Platforms  
